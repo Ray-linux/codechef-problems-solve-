@@ -1,3 +1,4 @@
-
-    // for (int i = 0; i < 3; ++i)
-    //     arr[i].assign(vec[i], vec[i] + 3);
+if (count < count2)
+        {
+            count2 = count;
+        }
