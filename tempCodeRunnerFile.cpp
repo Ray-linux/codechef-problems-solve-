@@ -1,4 +1,1 @@
-if (count < count2)
-        {
-            count2 = count;
-        }
+          // for (int k = i; k <= j; k++)
