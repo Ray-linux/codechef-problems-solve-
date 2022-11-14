@@ -10,7 +10,7 @@ void primeFactors(int a, int n)
         arr.push_back(2);
         n = n / 2;
     }
-    for (int i = 3; i <= sqrt(n); i = i + 2)
+    for (int i = 3; i <= sqrt(n); i = i + 2)    
     {
         while (n % i == 0)
         {
